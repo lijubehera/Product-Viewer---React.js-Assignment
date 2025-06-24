@@ -84,7 +84,7 @@ const BASE_URL = process.env.REACT_APP_API_BASE;
 1. **Clone the Repo**
 
 ```bash
-git clone https://github.com/your-username/product-viewer.git
+git clone https://github.com/lijubehera/Product-Viewer---React.js-Assignment
 cd product-viewer
 ```
 
@@ -132,5 +132,5 @@ This project is built for learning and demonstration purposes only.
 
 **Narayan Behera**
 React.js Developer
-GitHub: \[[your-username](https://github.com/lijubehera)]
+GitHub:[(https://github.com/lijubehera)]
 
